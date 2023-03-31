@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello From Lagoon!"
+echo "Hello From Lagoon!";
