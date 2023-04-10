@@ -1,0 +1,7 @@
+questions:
+- name: projectName
+  help: The system name your project will be known by
+  type: text
+  required: true
+  prompt: What is your project's name
+  default: myproject
